@@ -10,7 +10,7 @@
   "author": "Gary Lai",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^6.0.10"
+    "electron": "^18.3.7"
   },
   "dependencies": {
     "menubar": "^6.0.8"
